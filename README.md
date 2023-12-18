@@ -1,6 +1,6 @@
 
-![juliaset_1](https://github.com/ramirazodi/fractal_animation/assets/106940649/0abfc611-c935-4e48-a41a-335ecdddbb95)
-![juliaset_2](https://github.com/ramirazodi/fractal_animation/assets/106940649/9208fa1a-2a49-4bf3-b098-f7c1f2d8b174)
+![Julia_2](https://github.com/ramirazodi/fractal_animation/assets/106940649/1bf25fb0-992b-4091-97b8-257082f04a0b)
+![Julia_1](https://github.com/ramirazodi/fractal_animation/assets/106940649/62903b42-f7dd-41d0-be9a-23146fa5184c)
 
 # Julia and Mandelbrot Set Visualizations
 
