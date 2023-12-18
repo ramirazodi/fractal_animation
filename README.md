@@ -1,3 +1,4 @@
+https://github.com/ramirazodi/fractal_animation/assets/106940649/0eb87dde-386a-43ab-bc52-8b8725c8d22c
 
 ![Julia_2](https://github.com/ramirazodi/fractal_animation/assets/106940649/1bf25fb0-992b-4091-97b8-257082f04a0b)
 ![Julia_1](https://github.com/ramirazodi/fractal_animation/assets/106940649/62903b42-f7dd-41d0-be9a-23146fa5184c)
