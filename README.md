@@ -1,3 +1,7 @@
+
+![juliaset_1](https://github.com/ramirazodi/fractal_animation/assets/106940649/0abfc611-c935-4e48-a41a-335ecdddbb95)
+![juliaset_2](https://github.com/ramirazodi/fractal_animation/assets/106940649/9208fa1a-2a49-4bf3-b098-f7c1f2d8b174)
+
 # Julia and Mandelbrot Set Visualizations
 
 This project contains Python modules for generating static and animated visualizations of the Julia and Mandelbrot sets, which are famous fractals known for their complex and fascinating patterns. These sets are visualized using the Matplotlib library in Python.
